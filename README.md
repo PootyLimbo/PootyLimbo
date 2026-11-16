@@ -1,4 +1,6 @@
-## Hi there 👋
+My name is Michael. Nice to meet you.
+
+My primary vocation is in programming.
 
 <!--
 **PootyLimbo/PootyLimbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
